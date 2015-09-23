@@ -1,4 +1,4 @@
 print("Hello world")
 print("Hello everybody")
-
-А будет ли ветка
+print("Hello")
+print("Hello my dear friend")
